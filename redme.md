@@ -1,0 +1,1 @@
+read file first : write command / end-name : file name / between-name : content 
